@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "artfinder", "artfinder\artfinder.csproj", "{77ED4187-86DE-4C3B-AD3B-AA4A0C8F79FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ED4187-86DE-4C3B-AD3B-AA4A0C8F79FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ED4187-86DE-4C3B-AD3B-AA4A0C8F79FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ED4187-86DE-4C3B-AD3B-AA4A0C8F79FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ED4187-86DE-4C3B-AD3B-AA4A0C8F79FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7B3359-E612-46BC-AA25-D7A3BF8BA4B0}
+	EndGlobalSection
+EndGlobal
